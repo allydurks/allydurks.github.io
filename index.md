@@ -1,8 +1,10 @@
 # Allison Z. Durkan
 ### Computer Engineer and Technology Enthusiast
 
-[LinkedIn](https://www.linkedin.com/allisondurkan)
-[Twitter](https://www.twitter.com/allydurkss)
-[GitHub](https://www.github.com/azulad7)
 
-<a href="https://linkedin.com/allisondurkan" class="icon-linkedin-square"></a>
+
+If you want to take a look at my professional story, [visit my LinkedIn!](https://www.linkedin.com/allisondurkan) :thought_balloon:
+
+If you think it'd be fun to read my internal monologue, [check out my Twitter!](https://www.twitter.com/allydurkss) :star2:
+
+And if you want to take a look at a few of the projects I have worked on, [my GitHub repo](https://www.github.com/azulad7) is the place to go. :computer:
